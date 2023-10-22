@@ -43,8 +43,6 @@ export const HomePageComponent = () => {
               data-aos="fade-left"
               style={{ fontSize: "2.1rem" }}
             >
-              一位想轉職後端工程師的英文老師
-              <br />
               很高興認識你！
             </h1>
             <p data-aos-delay="300" data-aos="zoom-in">
